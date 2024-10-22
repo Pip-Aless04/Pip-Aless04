@@ -6,7 +6,7 @@ Everyone must know that PSeInt is the best programming lenguage
 
 # 🌐 Socials
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=transparent)](www.linkedin.com/in/alessandro-arias-baldi)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=transparent)](https://www.linkedin.com/in/alessandro-arias-baldi)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=transparent)](mailto:aless.arias04@gmail.com)
 
 ## 💻 Tech Stack:
