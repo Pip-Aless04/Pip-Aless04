@@ -1,6 +1,6 @@
 # 👾 About Me:
 
-Hello,! I'm a Backend Developer && Data Analyst.
+Hello,! I'm a Backend Developer
 
 Everyone must know that PSeInt is the best programming lenguage
 
